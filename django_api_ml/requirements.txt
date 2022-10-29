@@ -1,0 +1,7 @@
+django
+djangorestframework
+sklearn
+boto3
+django-cors-headers
+django-environ
+
